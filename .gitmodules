@@ -1,0 +1,4 @@
+[submodule "ClientApp"]
+	path = ClientApp
+	url = https://github.com/rstm-sf/Angular-GettingStarted.git
+	branch = develop
